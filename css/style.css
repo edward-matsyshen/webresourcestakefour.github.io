@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+body{
+ /* background-image: linear-gradient(rgb(187, 222, 238), rgb(133, 206, 240),rgb(233, 233, 204), rgb(235, 225, 191), rgb(133, 206, 240), rgb(187, 222, 238));  */
+ background-image: linear-gradient(rgb(220,220,220), rgb(211,211,211),rgb(220, 204, 233), rgb(235, 191, 215), rgb(211,211,211), rgb(220,220,220));
+    
+}
+
+
+
+div{
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+} 
+
+p{
+    background-color: rgba(231, 219, 226, 0.986);
+    border-radius: 5px;
+    padding: 20px;
+    line-height: 1.5;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 76em;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    background-image: linear-gradient(rgb(220, 204, 233), rgb(235, 191, 215));
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.redBold
+{ 
+    color: rgb(40, 43, 219);
+}
+
+.redBold:hover
+{ 
+  
+  
+  color: rgb(42, 45, 214);
+  color: rgb(240, 74, 74);
+}
